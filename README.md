@@ -1,4 +1,4 @@
-# DevOps-Basics_7 Instructions on how to create a dev branch🚀
+# DevOps-Basics_7 Instructions on how to create a dev branch and comment🚀
 
 ```markdown
 git checkout -b dev
