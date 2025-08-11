@@ -1,0 +1,15 @@
+ssh-keygen -t ed25519 -C "email/github" -f ~/.ssh/git
+
+nano ~/.ssh/config
+
+cat 
+
+ssh -T git@github.com
+
+git clone
+
+ls -la
+
+ll
+
+cd
